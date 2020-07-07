@@ -1,0 +1,9 @@
+
+form label{
+    float: left;
+    width: 25%;
+}
+
+.NewUser form button,.NewUser form .button{
+    margin-top: 20px;
+}

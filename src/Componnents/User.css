@@ -1,0 +1,42 @@
+.User{
+    border: 2px solid green;
+    padding: 10px;
+    margin:5px 10px 5px 1px;
+    
+}
+.User.ExistsUncomplited{
+    border-color: red;
+}
+
+.btn-other {
+    background-color: #BFBFBF;
+    
+}
+.other-data {
+    border-radius: 10px;
+    background-color: #F2F2F2;
+    padding: 20px;
+}
+.other-data.hide{
+    display: none;
+}
+
+.User label{
+    float: left;
+    width: 25%;
+}
+
+.flow-right{
+    display: flex;
+    justify-content:  flex-end ;
+}
+
+.user-footer{
+    display: flex;
+    justify-content:  space-around;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.User:last-child{
+    margin-bottom: 10px;
+  }

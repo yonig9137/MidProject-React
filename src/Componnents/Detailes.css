@@ -1,0 +1,9 @@
+.Detailes{
+    width: 30%;
+    height: 850px;
+    border: 2px solid black;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
